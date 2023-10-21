@@ -1,9 +1,11 @@
 /**
 * Author: Chenyue Shen
-* CS 3113: Collision Detection Exercise
-* 26 Prairial, Year CCXXXI
-* Tandon School of Engineering
-* Yurou Zou, Chenyue Shen, Ariel Wang, Will Lee, Yuzuka Rao
+* Assignment: Pong Clone
+* Date due: 2023-10-21, 11:59pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
 **/
 #define GL_SILENCE_DEPRECATION
 #define STB_IMAGE_IMPLEMENTATION
@@ -438,7 +440,7 @@ void shutdown()
 }
 
 /**
- Start here¡ªwe can see the general structure of a game loop without worrying too much about the details yet.
+ Start hereÂ¡Âªwe can see the general structure of a game loop without worrying too much about the details yet.
  */
 int main(int argc, char* argv[])
 {
